@@ -3,4 +3,6 @@ layout: post
 title : Biggest Challenge
 ---
 
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+Bloc Jams is written using both Vanilla JS,JQuery and in Angular JS. The quick transition to the Angular was a challenging situation for me. 
+Anglar JS was new to me and  it took me some time to understand it.I read a lot about it,watched some webcast and asked my mentor too. I like Angular because it gave a  structured look to the project and it's clean.
+Since i'm learning new things evryday, I put comments for  main codes so that I understand it quickly,when I check it again. 
